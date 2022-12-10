@@ -1,0 +1,19 @@
+{
+    "name": "hiago/composer",
+    "description": "Estudando Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hiago\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "heeydev",
+            "email": "maciellbranco@hotmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.1"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "hiago/exercicio-final",
+    "description": "Exercicio classe Venda",
+    "autoload": {
+        "psr-4": {
+            "exercicioFinal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "heeydev",
+            "email": "maciellbranco@hotmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,17 @@
+{
+    "name": "hiago/composer",
+    "description": "Estudos POO",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "heeydev",
+            "email": "maciellbranco@hotmail.com"
+        }
+    ],
+    "require": {}
+}
